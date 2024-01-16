@@ -1,2 +1,3 @@
 # RepositorioHenry
-ejercicios de tareas del prepcourse
+Homework del módulo 2 del PrepCourse de Henry
+
